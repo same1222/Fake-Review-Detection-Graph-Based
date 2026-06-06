@@ -1,0 +1,21 @@
+# Data files (too large for GitHub)
+*.csv
+*.pkl
+artifacts/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+~$*
+*.tmp
